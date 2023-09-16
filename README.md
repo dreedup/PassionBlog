@@ -4,4 +4,4 @@ This is a passion project meant to continue to be worked on post Bootcamp! On th
 
 # WireFrame
 
-[Home Page.pdf](https://github.com/dreedup/PassionBlog/files/12639652/Home.Page.pdf)
+![Group 1](https://github.com/dreedup/PassionBlog/assets/127633342/d3ce1f34-7af8-41cc-9b6c-e2ca88de9fc0)
